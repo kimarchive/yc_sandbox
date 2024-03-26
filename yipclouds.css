@@ -142,8 +142,6 @@ a:active {
     img {width: 30%}
 
     .banner {display: none}
-    .banner-landscape {background: #2E2B26; overflow: hidden}
-    .banner-img {object-fit: cover; opacity: 0.7}
 
     .cards-container {display: none}
 
