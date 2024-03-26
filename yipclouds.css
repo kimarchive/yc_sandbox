@@ -1,7 +1,7 @@
 /*basics*/
 
 body {
-    background-color: #ccc7c1;
+    background-color: #C0BBB5;
     font-family: Heebo, sans-serif;
     text-align: center;
     color: #2E2B26;
@@ -26,19 +26,19 @@ h1, h2, h3, ul, .below {
 
 /*links*/
 a:link {
-    color: #8F7763;
+    color: #8F7763 
   }
   
 a:visited {
-    color: #2E2B26
+    color: #8F7763 
   }
   
 a:hover {
-    color: #e76464;
+    color: #DDDEE1
   }
   
 a:active {
-    color: #2E2B26;
+    color: #2E2B26
   }
 
 /*special*/
