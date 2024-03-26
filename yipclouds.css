@@ -1,7 +1,7 @@
 /*basics*/
 
 body {
-    background-color: #EFEBE4;
+    background-color: #C0BBB5;
     font-family: Heebo, sans-serif;
     text-align: center;
     color: #2E2B26;
@@ -68,7 +68,7 @@ a:active {
     transition-duration: 0.3s;
     cursor: pointer;
     border-radius: 2vh;
-    background-color: peachpuff;
+    background-color: #8F7763;
     font-family: Heebo, sans-serif
   }
   
