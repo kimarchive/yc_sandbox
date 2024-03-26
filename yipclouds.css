@@ -145,7 +145,12 @@ a:active {
 
     .cards-container {display: none}
 
-    .cards-container-landscape {display: flex; flex-wrap: wrap; padding: 0 4px;}
+    .cards-container-landscape {
+      display: flex; 
+      flex-wrap: wrap; 
+      padding: 0 4px;
+      place-items: center;
+    }
 
     .card-item {
         border-radius: 2vh;
@@ -157,5 +162,10 @@ a:active {
     .column {
         flex:20%;
         box-sizing: border-box;
+        padding: 2.5% 2.5%;
+    }
+
+    .below img {
+      margin: 2.5%
     }
 }
